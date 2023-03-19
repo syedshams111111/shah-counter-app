@@ -1,0 +1,46 @@
+body {
+  background-color: paleturquoise;
+  border-style: solid;
+border-radius:200px;
+  border-width: 10px;
+  padding-bottom: 10%;
+}
+
+
+
+.demo{
+  margin:5%;
+  text-align: center;
+  font-style: oblique;
+  font-size: xxx-large;
+color:darkslateblue;
+}
+
+.my-5{
+  font-size: xxx-large;
+  text-align: center;
+}
+
+.mx-1{
+  background-color:green;
+  font-size: x-large;
+  padding-right:5%;
+padding-left:5%;
+}
+.mx-2{
+  background-color: red;
+  font-size: x-large;
+padding-right: 5%;
+padding-left: 5%;
+}
+
+.mx-3{
+
+  background-color:blue;
+  font-size: x-large;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+
+
